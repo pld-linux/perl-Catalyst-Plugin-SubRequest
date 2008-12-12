@@ -8,13 +8,13 @@
 Summary:	Catalyst::Plugin::SubRequest - Make subrequests to actions in Catalyst
 Summary(pl.UTF-8):	Catalyst::Plugin::SubRequest - tworzenie podżądań dla akcji w Catalyście
 Name:		perl-Catalyst-Plugin-SubRequest
-Version:	0.10
+Version:	0.13
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/M/MR/MRAMBERG/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1b706b07d4270188516c0a97a6375cfc
+# Source0-md5:	9132b2e32629964c57db261a83b4e8bb
 URL:		http://search.cpan.org/dist/Catalyst-Plugin-SubRequest/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
